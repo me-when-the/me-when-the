@@ -1,1 +1,1 @@
-<img src="https://media.tenor.com/bnbewiqLcjUAAAAM/wave-emoji-smile-wave.gif" alt="hiiii" style="width: 3;">
+<img src="https://media.tenor.com/bnbewiqLcjUAAAAM/wave-emoji-smile-wave.gif" alt="hiiii">
